@@ -18,12 +18,7 @@ export default function Index() {
       <Button buttonTitle="I'm a button!"/>
       <Label labelText="I'm a label"/> */}
 
-      <InputForm
-        labelText="Button Label"
-        buttonTitle="Button!"
-        placeholderText="I'm an input form!"
-        placeholderTextColor="pink"
-      />
+      <InputForm/>
 
     </View>
   );

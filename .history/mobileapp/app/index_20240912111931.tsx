@@ -22,7 +22,7 @@ export default function Index() {
         labelText="Button Label"
         buttonTitle="Button!"
         placeholderText="I'm an input form!"
-        placeholderTextColor="pink"
+        placeholderTextColor
       />
 
     </View>
